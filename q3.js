@@ -2,4 +2,4 @@ function greetUser(name) {
   return `Welcome to TechCrush, ${name}!`;
 }
 
-console.log(greetUser("Emmanuel"));
+console.log(greetUser("Amarachi"));
